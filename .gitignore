@@ -33,3 +33,5 @@
 *.exe
 *.out
 *.app
+cpp/stepping
+cpp/stepping_thread
